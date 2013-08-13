@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson6", "Lesson6\Lesson6.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SOIL", "SOIL\SOIL.vcxproj", "{CBAAC696-43B4-446A-A8A3-07ED5EFC72FB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LoadObj", "LoadObj\LoadObj.vcxproj", "{595FA053-FC05-48D1-9E46-7B7FF1B2E8D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -31,6 +33,10 @@ Global
 		{CBAAC696-43B4-446A-A8A3-07ED5EFC72FB}.Debug|Win32.Build.0 = Debug|Win32
 		{CBAAC696-43B4-446A-A8A3-07ED5EFC72FB}.Release|Win32.ActiveCfg = Release|Win32
 		{CBAAC696-43B4-446A-A8A3-07ED5EFC72FB}.Release|Win32.Build.0 = Release|Win32
+		{595FA053-FC05-48D1-9E46-7B7FF1B2E8D2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{595FA053-FC05-48D1-9E46-7B7FF1B2E8D2}.Debug|Win32.Build.0 = Debug|Win32
+		{595FA053-FC05-48D1-9E46-7B7FF1B2E8D2}.Release|Win32.ActiveCfg = Release|Win32
+		{595FA053-FC05-48D1-9E46-7B7FF1B2E8D2}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
